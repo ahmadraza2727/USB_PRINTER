@@ -55,8 +55,7 @@ thermal printer. The processing pipeline uses:
     conditions.
 
  
-
-<img width="422" height="1247" alt="WhatsApp Image 2026-05-12 at 11 39 42 PM" src="https://github.com/user-attachments/assets/69b802b1-7d59-40c1-9f85-962d0c6f0130" />
+<img width="422" height="1247" alt="WhatsApp Image 2026-05-12 at 11 39 42 PM" src="https://github.com/user-attachments/assets/5d38cdf7-04c7-4831-a292-b96908e892bb" />
 ## UART Communication
 
 Image data is transferred from the ESP32-CAM to the ESP32-S3 in chunks
@@ -123,8 +122,7 @@ below.
 
 ### Final System
 
-<img width="740" height="1600" alt="WhatsApp Image 2026-05-17 at 9 14 59 PM" src="https://github.com/user-attachments/assets/bf91a5a9-1605-49a3-8389-9bb180289465" />
-
+<img width="740" height="1600" alt="WhatsApp Image 2026-05-17 at 9 14 59 PM" src="https://github.com/user-attachments/assets/ee6611d8-995b-4a3c-905a-e3d0c0e29574" />
 *Final assembled scanner and thermal printer system.*
 
 
@@ -136,8 +134,8 @@ output.
   ----------------------------------------------------------------------------------------------------------
   Initial print                       Improved print                       Final print
   ----------------------------------- ------------------------------------ ---------------------------------
-  <img width="1600" height="1200" alt="im6" src="https://github.com/user-attachments/assets/c9c3e2c7-f3d6-4c7e-9bbf-ba3d758951b2" /> <img width="1600" height="990" alt="WhatsApp Image 2026-05-05 at 3 37 07 AM" src="https://github.com/user-attachments/assets/873e680b-dc96-4ba7-9e2c-370bfc1cf48f" />
-<img width="842" height="1280" alt="selected3" src="https://github.com/user-attachments/assets/58189227-8917-47e6-9dd2-a4fb81342d8e" />
+  <img width="1600" height="1200" alt="im6" src="https://github.com/user-attachments/assets/c9c3e2c7-f3d6-4c7e-9bbf-ba3d758951b2" /> <img width="1600" height="990" alt="WhatsApp Image 2026-05-05 at 3 37 07 AM" src="https://github.com/user-attachments/assets/06d5cdbd-e160-4fc7-866f-107f2105a418" />
+<img width="842" height="1280" alt="selected3" src="https://github.com/user-attachments/assets/aac600fd-f70a-4fe4-b87d-598ebf1c2a33" />
 
 
 
