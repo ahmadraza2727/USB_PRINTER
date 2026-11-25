@@ -54,7 +54,7 @@ thermal printer. The processing pipeline uses:
     regional adaptation to help preserve details under varying image
     conditions.
 
-> Add a sample of the source image and its processed output here.
+ 
 
 <img width="422" height="1247" alt="WhatsApp Image 2026-05-12 at 11 39 42 PM" src="https://github.com/user-attachments/assets/69b802b1-7d59-40c1-9f85-962d0c6f0130" />
 ## UART Communication
