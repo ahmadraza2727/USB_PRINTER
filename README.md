@@ -136,8 +136,8 @@ output.
   ----------------------------------------------------------------------------------------------------------
   Initial print                       Improved print                       Final print
   ----------------------------------- ------------------------------------ ---------------------------------
-  <img width="1600" height="1200" alt="im6" src="https://github.com/user-attachments/assets/c9c3e2c7-f3d6-4c7e-9bbf-ba3d758951b2" /> <img width="1600" height="990" alt="WhatsApp Image 2026-05-05 at 3 37 07 AM" src="https://github.com/user-attachments/assets/f75e7952-46d2-410f-b1d0-50beb7a5950e" />
-<img width="842" height="1280" alt="selected3" src="https://github.com/user-attachments/assets/6ce5fb3e-2c98-49ff-a9e3-613d619a1ad0" />
+  <img width="1600" height="1200" alt="im6" src="https://github.com/user-attachments/assets/c9c3e2c7-f3d6-4c7e-9bbf-ba3d758951b2" /> <img width="1600" height="990" alt="WhatsApp Image 2026-05-05 at 3 37 07 AM" src="https://github.com/user-attachments/assets/873e680b-dc96-4ba7-9e2c-370bfc1cf48f" />
+<img width="842" height="1280" alt="selected3" src="https://github.com/user-attachments/assets/58189227-8917-47e6-9dd2-a4fb81342d8e" />
 
 
 
