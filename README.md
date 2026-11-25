@@ -138,10 +138,6 @@ Improved print
 ------------------------------------
 <img width="1600" height="990" alt="WhatsApp Image 2026-05-05 at 3 37 07 AM" src="https://github.com/user-attachments/assets/06d5cdbd-e160-4fc7-866f-107f2105a418" />
 
---------------------------------
-Final print
----------------------------------
-<img width="842" height="1280" alt="selected3" src="https://github.com/user-attachments/assets/aac600fd-f70a-4fe4-b87d-598ebf1c2a33" />
 
 
 
