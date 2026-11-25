@@ -1,0 +1,68 @@
+build/
+sdkconfig
+sdkconfig.old
+# ==========================================
+# ESP-IDF Specific
+# ==========================================
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# ==========================================
+# C / C++ Compiled & Build Artifacts
+# ==========================================
+*.o
+*.obj
+*.ko
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+*.app
+*.exe
+*.a
+*.lib
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+*.d
+*.gch
+*.pch
+*.gcno
+*.gcda
+*.gcov
+
+# ==========================================
+# CMake & Ninja
+# ==========================================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+
+# ==========================================
+# IDEs & Editors (VS Code, CLion, Vim, etc.)
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
